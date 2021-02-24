@@ -6,7 +6,11 @@ sort: 1
 
 Text can be `**bold**` **bold**, `_italic_` _italic_, or `~~strikethrough~~` ~~strikethrough~~. [Links](https://github.com) should be blue with no underlines (unless hovered over).
 
-There should be whit## Table of Contents
+There should be whitespace between paragraphs.
+
+There should be white space between paragraphs.
+
+## Table of Contents
 [Headers](#headers)
 [Emphasis](#emphasis)
 [Lists](#lists)
